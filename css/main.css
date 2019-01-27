@@ -1,0 +1,469 @@
+/***************
+* vw-suv *
+***************/
+.vw-suv {
+  background-color: #fff7ef; }
+  .vw-suv h1,
+  .vw-suv h2,
+  .vw-suv h3,
+  .vw-suv p {
+    line-height: normal;
+    letter-spacing: normal;
+    color: #003a50; }
+  .vw-suv h1 {
+    font-size: 30px;
+    padding-bottom: 20px;
+    color: #fcf1e5;
+    font-weight: 600; }
+    @media (min-width: 768px) {
+      .vw-suv h1 {
+        font-size: 50px;
+        padding-bottom: 25px; } }
+    @media (min-width: 1220px) {
+      .vw-suv h1 {
+        font-size: 80px;
+        padding-bottom: 30px; } }
+    @media (min-width: 1440px) {
+      .vw-suv h1 {
+        font-size: 90px;
+        padding-bottom: 60px; } }
+  .vw-suv h2 {
+    font-size: 24px;
+    font-weight: 800; }
+    @media (min-width: 768px) {
+      .vw-suv h2 {
+        font-size: 36px; } }
+    @media (min-width: 1220px) {
+      .vw-suv h2 {
+        font-size: 50px; } }
+    @media (min-width: 1440px) {
+      .vw-suv h2 {
+        font-size: 72px; } }
+  .vw-suv h3 {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700; }
+    @media (min-width: 768px) {
+      .vw-suv h3 {
+        font-size: 24px; } }
+    @media (min-width: 1220px) {
+      .vw-suv h3 {
+        font-size: 34px; } }
+    @media (min-width: 1440px) {
+      .vw-suv h3 {
+        font-size: 40px; } }
+  .vw-suv p {
+    font-size: 14px;
+    font-weight: 500; }
+    @media (min-width: 768px) {
+      .vw-suv p {
+        font-size: 18px; } }
+    @media (min-width: 1220px) {
+      .vw-suv p {
+        font-size: 24px; } }
+    @media (min-width: 1440px) {
+      .vw-suv p {
+        font-size: 27px; } }
+  .vw-suv strong {
+    font-weight: 800; }
+    .vw-suv strong a {
+      color: red;
+      -webkit-transition: .3s;
+      transition: .3s; }
+      .vw-suv strong a:hover {
+        color: #003a50; }
+  .vw-suv .vw-header-wrap {
+    background: url(../img/bg-title.jpg); }
+  .vw-suv .vw-header {
+    padding: 50px 10px 0 10px;
+    text-align: center; }
+    @media (min-width: 768px) {
+      .vw-suv .vw-header {
+        padding: 70px 20px 0 20px; } }
+    @media (min-width: 1220px) {
+      .vw-suv .vw-header {
+        padding: 150px 30px 0 30px; } }
+    @media (min-width: 1440px) {
+      .vw-suv .vw-header {
+        padding: 190px 60px 0 60px; } }
+    .vw-suv .vw-header img {
+      margin-bottom: 30px; }
+      @media (min-width: 768px) {
+        .vw-suv .vw-header img {
+          margin-bottom: 70px; } }
+      @media (min-width: 1220px) {
+        .vw-suv .vw-header img {
+          margin-bottom: 100px; } }
+      @media (min-width: 1440px) {
+        .vw-suv .vw-header img {
+          margin-bottom: 120px; } }
+    .vw-suv .vw-header p {
+      max-width: 100%;
+      margin: 0 auto 20px auto; }
+      @media (min-width: 768px) {
+        .vw-suv .vw-header p {
+          max-width: 600px; } }
+      @media (min-width: 1220px) {
+        .vw-suv .vw-header p {
+          max-width: 815px; } }
+  .vw-suv .h1-wrap {
+    max-width: 400px;
+    background: url(../img/bg-titel-text.png);
+    margin: auto; }
+    @media (min-width: 768px) {
+      .vw-suv .h1-wrap {
+        max-width: 600px; } }
+    @media (min-width: 1220px) {
+      .vw-suv .h1-wrap {
+        max-width: 1030px; } }
+  .vw-suv .vw-header-presentation {
+    padding: 0 10px 5px 10px; }
+    @media (min-width: 768px) {
+      .vw-suv .vw-header-presentation {
+        padding: 30px 50px 50px 50px; } }
+    @media (min-width: 1220px) {
+      .vw-suv .vw-header-presentation {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex; } }
+    @media (min-width: 1440px) {
+      .vw-suv .vw-header-presentation {
+        padding: 60px 70px 0 70px; } }
+    .vw-suv .vw-header-presentation p {
+      max-width: 100%;
+      padding: 0;
+      margin-bottom: 30px; }
+      @media (min-width: 768px) {
+        .vw-suv .vw-header-presentation p {
+          margin-bottom: 20px; } }
+      @media (min-width: 1220px) {
+        .vw-suv .vw-header-presentation p {
+          max-width: 50%;
+          padding: 0 20px;
+          margin-bottom: 100px; } }
+      @media (min-width: 1440px) {
+        .vw-suv .vw-header-presentation p {
+          padding: 0 35px;
+          margin-bottom: 125px; } }
+  .vw-suv .description-section-wrap {
+    padding: 50px 10px 0 10px; }
+    @media (min-width: 768px) {
+      .vw-suv .description-section-wrap {
+        padding: 80px 50px 0 50px; } }
+    @media (min-width: 1220px) {
+      .vw-suv .description-section-wrap {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex; } }
+    @media (min-width: 1440px) {
+      .vw-suv .description-section-wrap {
+        padding: 100px 70px 0 70px; } }
+  .vw-suv .description-section {
+    max-width: 100%; }
+    @media (min-width: 1220px) {
+      .vw-suv .description-section {
+        max-width: 50%; } }
+    .vw-suv .description-section p {
+      padding: 0;
+      margin-bottom: 20px; }
+      @media (min-width: 1220px) {
+        .vw-suv .description-section p {
+          padding: 0 20px;
+          margin-bottom: 30px; } }
+      @media (min-width: 1440px) {
+        .vw-suv .description-section p {
+          padding: 0 35px;
+          margin-bottom: 40px; } }
+    .vw-suv .description-section img {
+      display: inline-block;
+      margin: 0 0 20px 10px;
+      width: 100%; }
+  .vw-suv .description-title {
+    max-width: 340px;
+    margin: 0 0 30px 0;
+    padding: 5px 10px;
+    background: url(../img/bg-subtitle.png); }
+    @media (min-width: 768px) {
+      .vw-suv .description-title {
+        max-width: 420px;
+        padding: 15px 20px;
+        margin: 0 0 50px 0; } }
+    @media (min-width: 1220px) {
+      .vw-suv .description-title {
+        max-width: 100%;
+        padding: 15px 20px;
+        margin: 0 20px 50px 20px; } }
+    @media (min-width: 1440px) {
+      .vw-suv .description-title {
+        padding: 20px 30px;
+        margin: 0 40px 80px 40px; } }
+  .vw-suv .cta-wrap {
+    padding: 20px 0 60px 0;
+    text-align: center; }
+    @media (min-width: 768px) {
+      .vw-suv .cta-wrap {
+        padding: 0 0 80px 0; } }
+  .vw-suv .vw-suv-cta {
+    padding: 10px 15px;
+    font-size: 14px;
+    color: #fff;
+    background: #003a50;
+    border-radius: 5px;
+    font-weight: 600;
+    -webkit-transition: .3s;
+    transition: .3s; }
+    @media (min-width: 400px) {
+      .vw-suv .vw-suv-cta {
+        font-size: 16px;
+        padding: 10px 30px; } }
+    @media (min-width: 768px) {
+      .vw-suv .vw-suv-cta {
+        padding: 15px 40px;
+        font-size: 21px; } }
+    .vw-suv .vw-suv-cta:hover {
+      background: #7cc1d4; }
+  .vw-suv .table {
+    padding: 10px 10px 30px 10px; }
+    @media (min-width: 768px) {
+      .vw-suv .table {
+        padding: 40px 50px 60px 50px; } }
+    @media (min-width: 1440px) {
+      .vw-suv .table {
+        padding: 60px 70px 80px 70px; } }
+  .vw-suv thead,
+  .vw-suv tbody,
+  .vw-suv tr,
+  .vw-suv td {
+    display: block;
+    width: 100%; }
+  .vw-suv table {
+    width: 100%; }
+    @media (min-width: 1220px) {
+      .vw-suv table {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex; } }
+    .vw-suv table .cell {
+      width: 100%; }
+      .vw-suv table .cell div:first-child {
+        background-color: #003a50; }
+      .vw-suv table .cell div:last-child {
+        height: 30px;
+        font-size: 14px;
+        margin-bottom: 5px; }
+        @media (min-width: 768px) {
+          .vw-suv table .cell div:last-child {
+            font-size: 20px;
+            padding: 10px 10px 12px 20px;
+            margin-bottom: 15px;
+            height: auto; } }
+        @media (min-width: 1220px) {
+          .vw-suv table .cell div:last-child {
+            height: 50px; } }
+        @media (min-width: 1440px) {
+          .vw-suv table .cell div:last-child {
+            font-size: 23px; } }
+      .vw-suv table .cell div {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        height: 43px;
+        padding: 5px 10px 5px 10px;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: normal;
+        color: #fff; }
+        @media (min-width: 768px) {
+          .vw-suv table .cell div {
+            padding: 10px 20px 15px 20px;
+            font-size: 21px;
+            -webkit-box-pack: justify;
+                -ms-flex-pack: justify;
+                    justify-content: space-between;
+            -webkit-box-align: baseline;
+                -ms-flex-align: baseline;
+                    align-items: baseline;
+            height: auto; } }
+        @media (min-width: 1220px) {
+          .vw-suv table .cell div {
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+                -ms-flex-direction: column;
+                    flex-direction: column;
+            height: 60px; } }
+        @media (min-width: 1440px) {
+          .vw-suv table .cell div {
+            -webkit-box-orient: horizontal;
+            -webkit-box-direction: normal;
+                -ms-flex-direction: row;
+                    flex-direction: row;
+            -webkit-box-pack: justify;
+                -ms-flex-pack: justify;
+                    justify-content: space-between;
+            -webkit-box-align: baseline;
+                -ms-flex-align: baseline;
+                    align-items: baseline;
+            height: auto; } }
+        .vw-suv table .cell div span {
+          font-size: 12px;
+          font-weight: 500; }
+          @media (min-width: 768px) {
+            .vw-suv table .cell div span {
+              font-size: 14px; } }
+          @media (min-width: 1220px) {
+            .vw-suv table .cell div span {
+              font-size: 14px; } }
+    .vw-suv table tr:nth-child(2n-1) div {
+      background-color: #7cc1d4; }
+    .vw-suv table tr:nth-child(2n) div {
+      background-color: #c0a893; }
+    .vw-suv table thead,
+    .vw-suv table tbody {
+      padding: 0; }
+      @media (min-width: 1220px) {
+        .vw-suv table thead,
+        .vw-suv table tbody {
+          padding: 0 20px 0 20px; } }
+      @media (min-width: 1440px) {
+        .vw-suv table thead,
+        .vw-suv table tbody {
+          padding: 0 35px 0 35px; } }
+  .vw-suv .img-block {
+    font-size: 0; }
+    @media (min-width: 768px) {
+      .vw-suv .img-block {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: start;
+            -ms-flex-align: start;
+                align-items: flex-start; } }
+    @media (min-width: 768px) {
+      .vw-suv .img-block img {
+        max-width: 50%;
+        margin-bottom: 0; } }
+  @media (min-width: 768px) {
+    .vw-suv .t-roc_position img {
+      margin: 10px 0 20px 50px; } }
+  @media (min-width: 1220px) {
+    .vw-suv .t-roc_position img {
+      margin: 60px 0 60px 0px;
+      min-width: calc(100% + 50px); } }
+  @media (min-width: 1440px) {
+    .vw-suv .t-roc_position img {
+      margin: 80px 0 65px 0px;
+      min-width: calc(100% + 70px); } }
+  @media (min-width: 768px) {
+    .vw-suv .tiguan_position img {
+      margin: 0 0 45px 50px; } }
+  @media (min-width: 1440px) {
+    .vw-suv .tiguan_position img {
+      margin: 0 0 45px 70px; } }
+  @media (min-width: 768px) {
+    .vw-suv .tiguan-allspace_position img {
+      margin: 10px 0 20px 50px; } }
+  @media (min-width: 1220px) {
+    .vw-suv .tiguan-allspace_position img {
+      margin: 50px 0 45px 50px; } }
+  @media (min-width: 1440px) {
+    .vw-suv .tiguan-allspace_position img {
+      margin: 50px 0 45px 70px; } }
+  .vw-suv .small-title {
+    position: relative; }
+    .vw-suv .small-title i {
+      bottom: 0;
+      right: 18px;
+      font-size: 16px;
+      position: absolute; }
+      @media (min-width: 400px) {
+        .vw-suv .small-title i {
+          right: 30px; } }
+      @media (min-width: 768px) {
+        .vw-suv .small-title i {
+          font-size: 24px; } }
+      @media (min-width: 1440px) {
+        .vw-suv .small-title i {
+          bottom: 5px;
+          right: 28px;
+          font-size: 24px; } }
+  @media (min-width: 768px) {
+    .vw-suv .touareg_position img {
+      margin: 10px 0 20px 50px; } }
+  @media (min-width: 1220px) {
+    .vw-suv .touareg_position img {
+      margin: 20px 0 20px 50px; } }
+  @media (min-width: 1440px) {
+    .vw-suv .touareg_position img {
+      margin: 20px 0 20px 70px; } }
+  @media (min-width: 768px) {
+    .vw-suv .t-cross_position img {
+      margin: 10px 0 30px 50px; } }
+  @media (min-width: 1220px) {
+    .vw-suv .t-cross_position img {
+      margin: 20px 0 20px 50px; } }
+  @media (min-width: 1440px) {
+    .vw-suv .t-cross_position img {
+      margin: 80px 0 10px 70px; } }
+  .vw-suv .mb {
+    margin-bottom: 30px; }
+    @media (min-width: 768px) {
+      .vw-suv .mb {
+        margin-bottom: 50px; } }
+    @media (min-width: 1440px) {
+      .vw-suv .mb {
+        margin-bottom: 60px; } }
+  .vw-suv .new-title {
+    padding: 0 10px 5px 10px;
+    margin: 0;
+    color: #003a50; }
+    @media (min-width: 768px) {
+      .vw-suv .new-title {
+        padding: 0 0 20px 0;
+        margin: 0 20px; } }
+    @media (min-width: 1220px) {
+      .vw-suv .new-title {
+        margin: 0 40px; } }
+    @media (min-width: 1440px) {
+      .vw-suv .new-title {
+        padding: 20px 30px; } }
+  .vw-suv .bg-basic {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%; }
+  .vw-suv .vw-footer {
+    padding: 30px 20px;
+    text-align: center; }
+    @media (min-width: 768px) {
+      .vw-suv .vw-footer {
+        padding: 50px 30px 20px 30px; } }
+    @media (min-width: 1220px) {
+      .vw-suv .vw-footer {
+        padding: 70px 60px 20px 60px; } }
+    @media (min-width: 1440px) {
+      .vw-suv .vw-footer {
+        padding: 90px 100px 40px 100px; } }
+    .vw-suv .vw-footer p {
+      margin-bottom: 10px; }
+      @media (min-width: 768px) {
+        .vw-suv .vw-footer p {
+          margin-bottom: 20px; } }
+      @media (min-width: 1220px) {
+        .vw-suv .vw-footer p {
+          margin-bottom: 40px; } }
+      @media (min-width: 1440px) {
+        .vw-suv .vw-footer p {
+          margin-bottom: 50px; } }
+    @media (min-width: 1220px) {
+      .vw-suv .vw-footer p:first-child {
+        margin-bottom: 70px; } }
+    @media (min-width: 1440px) {
+      .vw-suv .vw-footer p:first-child {
+        margin-bottom: 80px; } }
+    .vw-suv .vw-footer a {
+      color: red; }
+      .vw-suv .vw-footer a:hover {
+        color: #7cc1d4; }
